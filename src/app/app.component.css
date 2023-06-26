@@ -47,3 +47,19 @@ color: aliceblue;
 
   height: 100%;
 }
+
+#mision {
+  background-color: #1f79ae44;
+}
+
+#mision p {
+
+    font-size: 1.1rem;
+    padding: 1.2rem 0 0 0;
+    text-align: justify;
+
+}
+
+
+
+
